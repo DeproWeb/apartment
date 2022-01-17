@@ -1,0 +1,28 @@
+{
+    "apartments": [
+        {
+            "id": 1,
+            "ciudad": "Málaga"
+        },
+        {
+            "id": 2,
+            "ciudad": "Granada"
+        },
+        {
+            "id": 3,
+            "ciudad": "Cádiz"
+        },
+        {
+            "id": 4,
+            "ciudad": "Almeria"
+        },
+        {
+            "id": 5,
+            "ciudad": "Sevilla"
+        },
+        {
+            "id": 6,
+            "ciudad": "Córdoba"
+        }
+    ]
+}
