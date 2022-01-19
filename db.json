@@ -2,26 +2,32 @@
     "apartments": [
         {
             "id": 1,
+            "imagen": "https://image.freepik.com/foto-gratis/interior-sala-estar-sofa-pared-azul-oscuro-vacia-renderizado-3d_41470-3621.jpg",
             "ciudad": "Málaga"
         },
         {
             "id": 2,
+            "imagen": "https://image.freepik.com/foto-gratis/marco-maqueta-interior-sala-estar-interior-sala-estar-estilo-escandinavo-renderizado-3d_41470-4094.jpg",
             "ciudad": "Granada"
         },
         {
             "id": 3,
+            "imagen": "https://image.freepik.com/foto-gratis/arquitectura-abstracta-construccion_74190-7281.jpg",
             "ciudad": "Cádiz"
         },
         {
             "id": 4,
+            "imagen": "https://image.freepik.com/foto-gratis/maqueta-pared-interior-sala-estar-tonos-calidos-sofa-cuero-que-detras-cocina-representacion-3d_41470-3753.jpg",
             "ciudad": "Almeria"
         },
         {
             "id": 5,
+            "imagen": "https://image.freepik.com/foto-gratis/interior-moderno-minimalista-sala-estar_33739-472.jpg",
             "ciudad": "Sevilla"
         },
         {
             "id": 6,
+            "imagen": "https://image.freepik.com/foto-gratis/edificio-residencial-ventanas-balcones_140725-7608.jpg",
             "ciudad": "Córdoba"
         }
     ]
